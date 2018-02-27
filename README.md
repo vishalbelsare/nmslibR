@@ -1,4 +1,10 @@
 
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/nmslibR)](http://cran.r-project.org/package=nmslibR)
+[![Travis-CI Build Status](https://travis-ci.org/mlampros/nmslibR.svg?branch=master)](https://travis-ci.org/mlampros/nmslibR)
+[![codecov.io](https://codecov.io/github/mlampros/nmslibR/coverage.svg?branch=master)](https://codecov.io/github/mlampros/nmslibR?branch=master)
+[![Downloads](http://cranlogs.r-pkg.org/badges/grand-total/nmslibR?color=blue)](http://www.r-pkg.org/pkg/nmslibR)
+
+
 ## nmslibR (Non Metric Space Library in R)
 <br>
 
